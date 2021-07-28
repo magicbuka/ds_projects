@@ -16,6 +16,7 @@
 - Sklearn (модели LinearRegression, Ridge, Lasso, DummyRegressor)
 - Lightgbm
 - Xgboost
+
 дополнительно при реализации проекта использованы следующие методы библиотеки Sklearn:
 GridSearchCV, TimeSeriesSplit, Pipeline
 
