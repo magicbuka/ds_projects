@@ -18,6 +18,7 @@
 - Sklearn
 - CatBoost
 - LightGBM
+
 дополнительно при реализации проекта использованы следующие методы библиотеки Sklearn:
 MissingIndicator, LabelEncoder, RandomizedSearchCV
 
